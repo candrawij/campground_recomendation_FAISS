@@ -21,3 +21,6 @@ Thumbs.db
 # documents/processed/
 # documents/*.csv
 # documents/*.json
+
+# Browser Session Cache
+asisten/chrome_session/
